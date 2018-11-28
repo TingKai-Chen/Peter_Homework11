@@ -12,6 +12,7 @@
 		0C6E263621A7C6D8002ED9C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C6E263421A7C6D8002ED9C4 /* Main.storyboard */; };
 		0C6E263821A7C6D9002ED9C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C6E263721A7C6D9002ED9C4 /* Assets.xcassets */; };
 		0C6E263B21A7C6D9002ED9C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C6E263921A7C6D9002ED9C4 /* LaunchScreen.storyboard */; };
+		0C6E264721A7D982002ED9C4 /* shopTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6E264621A7D982002ED9C4 /* shopTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0C6E263721A7C6D9002ED9C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C6E263A21A7C6D9002ED9C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0C6E263C21A7C6D9002ED9C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C6E264621A7D982002ED9C4 /* shopTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shopTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0C6E263021A7C6D8002ED9C4 /* AppDelegate.swift */,
 				0C6E263221A7C6D8002ED9C4 /* ViewController.swift */,
 				0C6E263421A7C6D8002ED9C4 /* Main.storyboard */,
+				0C6E264621A7D982002ED9C4 /* shopTableViewController.swift */,
 				0C6E263721A7C6D9002ED9C4 /* Assets.xcassets */,
 				0C6E263921A7C6D9002ED9C4 /* LaunchScreen.storyboard */,
 				0C6E263C21A7C6D9002ED9C4 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				0C6E263321A7C6D8002ED9C4 /* ViewController.swift in Sources */,
 				0C6E263121A7C6D8002ED9C4 /* AppDelegate.swift in Sources */,
+				0C6E264721A7D982002ED9C4 /* shopTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
